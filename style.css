@@ -1,0 +1,228 @@
+
+.center1 {
+    text-align: center;
+    border: 2px solid black;
+    width: 800px;
+    height: auto;
+    margin: 10px auto 10px auto;
+    color: green;
+    font-size: x-large;
+    font-weight: bold;
+    text-shadow: 1px 2px 3px #3a3a3a;
+    box-shadow: 4px 5px 12px 2px #000;
+    
+}
+
+.header1,
+.footer1 {
+    border: 2px solid black;
+    width: 600px;
+    margin: 1px auto 2px auto;
+    margin-top: 01px;
+    padding: 3%;
+}
+
+.navbar1 {
+    border: 2px solid black;
+    width: 600px;
+    margin: 2px auto 2px auto;
+    margin-top: 02px;
+    padding: 3%;
+    height: 25px;
+}
+
+
+div.content1 {
+    display: flex;
+    display: inline-flex;
+    /* margin-left: 16%; */
+    margin: 1px auto 1px auto;
+}
+
+.contentleft1 {
+    border: 2px solid black;
+    width: 115px;
+    height: 200px;
+    margin-right: 4px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+.contentright1 {
+    border: 2px solid black;
+    width: 116px;
+    height: 200px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+.maincontent1 {
+    border: 2px solid black;
+    width: 401px;
+    margin-right: 4px;
+    margin-top: 1px;
+    height: 200px;
+    margin-bottom: 1px;
+}
+
+p {
+    text-align: center;
+}
+
+/*This is Style 2 for box2*/
+.box2 {
+    text-align: center;
+    border: 2px solid black;
+    width: 700px;
+    height: auto;
+    margin: 8px auto 8px auto;
+    color: rgb(5, 5, 5);
+    font-size: x-large;
+    font-weight: bold;
+    text-shadow: 1px 2px 3px #3a3a3a;
+    background-color: aquamarine;
+}
+.navbar2 {
+    border: 2px solid black;
+    width: 600px;
+    margin: 2px auto 2px auto;
+    margin-top: 02px;
+    padding: 3%;
+    height: 25px;
+    background-color: rgb(14, 190, 243);
+}
+.header2{
+    border: 2px solid black;
+    width: 600px;
+    margin: 1px auto 2px auto;
+    margin-top: 01px;
+    padding: 3%;
+}
+
+div.content2 {
+    display: flex;
+    display: inline-flex;
+    margin-left: 16%;
+    margin: 1px auto 1px auto;
+   
+}
+
+
+.contentleft2 {
+    border: 2px solid black;
+    width: 203px;
+    height: 450px;
+    margin-right: 4px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    background-color: blueviolet;
+}
+
+.maincontent2 {
+    border: 2px solid black;
+    width: 430px;
+    
+    margin-top: 1px;
+    height: 450px;
+    margin-bottom: 1px;
+    background-color: palevioletred;
+    
+}
+
+p {
+    text-align: center;
+}
+hr{
+    border:5px solid rgb(252, 106, 106);
+}
+.footer2 {
+    border: 2px solid black;
+    width: 600px;
+    margin: 2px auto 2px auto;
+    margin-top: 02px;
+    padding: 3%;
+    background-color:burlywood;
+}
+
+
+/*This is Style 3 for box3*/
+.box3 {
+    text-align: center;
+    border: 2px solid black;
+    width: 700px;
+    height: auto;
+    margin: 8px auto 8px auto;
+    color: rgb(5, 5, 5);
+    font-size: x-large;
+    font-weight: bold;
+    text-shadow: 1px 2px 3px #3a3a3a;
+    justify-items: center;
+    
+}
+.header3{
+    text-align: left;
+    color: #000;
+    border: 3px solid black;
+    width:596px;
+    
+    
+   
+}
+
+
+ul{
+    display: flex;
+    display: inline;
+    display: inline-flex;
+    list-style: none;
+}
+.r1{
+    border: #000 3px solid;
+    background-color: pink;
+    width: 196px;
+    height: 100px;
+    margin-right: 3px;
+}
+.l1{
+    border: #000 3px solid;
+    background-color: rgb(36, 236, 46);
+    width: 400px;
+    height: 100px;
+}
+.r2{
+    border: #000 3px solid;
+    background-color: pink;
+    width: 196px;
+    height: 100px;
+    margin-right: 3px;
+}
+.l2{
+    border: #000 3px solid;
+    background-color: rgb(36, 236, 46);
+    width: 400px;
+    height: 100px;
+}
+.r3{
+    border: #000 3px solid;
+    background-color: pink;
+    width: 196px;
+    height: 100px;
+    margin-right: 3px;
+}
+.l3{
+    border: #000 3px solid;
+    background-color: rgb(36, 236, 46);
+    width: 400px;
+    height: 100px;
+}
+.footer3 {
+    border: 3px solid black;
+    width: 600px;
+    margin: 2px auto 2px auto;
+    margin-top: 02px;
+    padding: 3%;
+    background-color:burlywood;
+}
+tr{
+    margin-bottom: 0;
+}
